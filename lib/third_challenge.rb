@@ -12,7 +12,9 @@ def third_challenge
         },
         
       :hero => {
-     
+        :name => 'Romeo', 
+        :age => , 
+        :status => 'Alive'
         },
         
       :hero_friends => []
