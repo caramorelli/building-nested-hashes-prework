@@ -1,3 +1,3 @@
 def first_challenge
-   epic_tragedy = { mont}
+   epic_tragedy = { :montague {} }
 end
