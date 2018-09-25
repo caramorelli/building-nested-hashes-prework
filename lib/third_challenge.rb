@@ -22,13 +22,16 @@ def third_challenge
    
    :capulet => {
       :patriarch => {
-        
+        :name => "Lord Montague", 
+        :age => "53" 
         },
       :matriarch => {
        
         },
       :heroine => {
-       
+       :name => 'Juliet', 
+        :age => "15", 
+        :status => 'Alive'
         },
       :heroine_friends => []
    }
